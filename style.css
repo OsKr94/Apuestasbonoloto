@@ -1,0 +1,40 @@
+h1 {
+    color: black;
+    letter-spacing: 3px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h3 {
+    color: purple;
+    text-align: center;
+
+}
+
+p.big {
+    color: blue;
+    line-height: 1.8;
+}
+
+div {
+    color: red;
+    text-indent: 30px;
+    word-spacing: 20px;
+    text-shadow: 2px 1px pink;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/009/924/586/non_2x/clover-shamrock-seamless-background-perfect-for-the-wallpaper-postcard-and-background-illustration-vector.jpg);
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    font-size: medium;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
